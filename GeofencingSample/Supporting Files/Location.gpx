@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <wpt lat="28.570317" lon="77.321820">
+        <name>P1</name>
+    </wpt>
+    
+    <wpt lat="28.593049" lon="77.397035">
+        <name>P2</name>
+    </wpt>
+    
+    <wpt lat="28.639069" lon="77.086774">
+        <name>P3</name>
+    </wpt>
+    
+    <wpt lat="29.097314" lon="77.405783">
+        <name>P4</name>
+    </wpt>
+    
+    <wpt lat="28.555575" lon="77.063642">
+        <name>P5</name>
+    </wpt>
+    
+</gpx>
